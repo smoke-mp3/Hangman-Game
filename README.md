@@ -16,7 +16,6 @@ Hangman-Game is a fun, text-based implementation of the popular word-guessing ga
 ```bash
 git clone https://github.com/smoke-mp3/Hangman-Game.git
 cd Hangman-Game
-pip install -r requirements.txt
 ```
 
 ## Quick Start
@@ -26,10 +25,6 @@ To play the game, simply run the main Python script from your terminal:
 ```bash
 python hangman.py
 ```
-
-## Contributing
-
-We welcome contributions! Please read our CONTRIBUTING.md for guidelines on how to get involved.
 
 ## License
 
