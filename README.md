@@ -1,4 +1,4 @@
-Hangman-Game
+## Hangman-Game
 A classic Hangman game written in Python.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
