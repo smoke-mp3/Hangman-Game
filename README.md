@@ -2,7 +2,7 @@
 A classic Hangman game written in Python.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Hangman-Game is a fun, text-based implementation of the popular word-guessing game, Hangman. It's designed for anyone who wants to play a quick game of Hangman directly from their terminal. This project is built entirely in Python, making it easy to run and modify.
 
