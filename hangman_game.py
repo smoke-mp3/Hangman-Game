@@ -32,7 +32,7 @@ hangman_words = {
         "Psychologist", "Therapist", "Pharmacist", "Dentist", "Surgeon", "Veterinarian", 
         "Biologist", "Chemist", "Physicist", "Geologist", "Meteorologist", "Astronomer", 
         "Politician", "Diplomat", "Judge", "Police Officer", "Detective", "Soldier"],
-    "Cartoons": ["Looney Tunes", "Tom and Jerry","Toy Story", "Shrek", "The Matrix", "Inception", "Titanic", "Avatar", 
+    "Cartoons": ["Looney Tunes", "Tom and Jerry","Toy Story", "Shrek", "The Matrix", "Inception", "Avatar", 
     "Star Wars", "Jurassic Park", "Avengers", "Frozen", "Lion King", "Gladiator", "Mickey Mouse and Friends", "Scooby-Doo", "The Flintstones", "The Jetsons",
         "Popeye the Sailor", "SpongeBob SquarePants", "Dexter's Laboratory", "The Powerpuff Girls", "Courage the Cowardly Dog", "Ed Edd n Eddy",
         "Johnny Bravo", "Rugrats", "Avatar The Last Airbender", "Ben 10", "Adventure Time", "Regular Show",
