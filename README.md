@@ -23,7 +23,7 @@ cd Hangman-Game
 To play the game, simply run the main Python script from your terminal:
 
 ```bash
-python hangman.py
+python hangman_game.py
 ```
 
 ## License
