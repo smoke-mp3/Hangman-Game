@@ -29,3 +29,19 @@ python hangman_game.py
 ## License
 
 This project is licensed under the MIT License.
+
+## Here is a quick demo of the game:
+
+
+https://github.com/user-attachments/assets/5e9fd4c3-1e19-49e7-9b66-3e1d17cd7ba8
+
+
+
+
+
+
+
+
+
+
+
